@@ -12,3 +12,5 @@ Make sure cctk runs as admin
 ## Ref
 
 ![image](https://github.com/ishanfdo18098/Dell-battery-charge-limit-windows/assets/73381996/eb0c98f6-915f-4600-ac8a-d4e0a0694586)
+
+https://dl.dell.com/content/manual33307037-dell-command-configure-version-4-x-command-line-interface-reference-guide.pdf?language=en-us
