@@ -8,6 +8,8 @@ Make sure cctk runs as admin
 
 `./fullCharge.bat` for 100% battery charge
 
+`./expressCharge.bat` for fast charging
+
 
 ## Ref
 
